@@ -1,0 +1,16 @@
+Columbia House|Stonewall Rice|1963
+Chester|Drawers|Erwin|TN|Officer|06/26/2009|Chester.jpg
+Bo|Peep|Johnson City|TN|Junior|12/09/2012|Bo.jpg
+Chuck|Wagon|Prairieville|AK|Senior|09/01/1972|Chuck.jpg
+Willy|Makit|Salak|SC|Senior|04/05/1977|Makit.jpg
+Betty|Wont|Ninety Six|SC|Senior|04/18/1977|Wont.jpg
+Stonewall|Rice|Clemson|SC|Lifetime|04/23/1963|Stonewall.jpg
+Ben|Dover|Elizabethton|TN|Provisional|11/28/2014|Dover.jpg
+Honest-John|Holder|Dallas|TX|Lifetime|09/28/1963|Holder.jpg
+Sandstone|Steifle|Asheville|NC|Lifetime|06/05/1966|Sandstone.jpg
+Yura|Hogg|Houston|TX|Provisional|01/01/2015|Hogg.jpg
+Raven|Nutt|East Sedalia|MO|Junior|10/31/2000|Nutt.jpg
+Linda|Hand|Johnson City|TN|Senior|11/17/1980|Hand.jpg
+Polly|Nomial|Flag Pond|TN|Student|02/03/2012|Polly.jpg
+Sunny|Beech|Daytona|FL|Student|08/05/2005|Sunny.jpg
+Ima|BadRecord|flubadub.jpg
